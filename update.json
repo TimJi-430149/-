@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "2.1",
-  "releaseNotes": "修正「電工原理」與「輸配電學」清單打勾後進度條無法更新的錯誤",
-  "downloadUrl": "https://github.com/TimJi-430149/-/releases/download/v2.1/v2.1-release.apk"
+  "versionCode": 6,
+  "versionName": "2.3",
+  "releaseNotes": "新增虛擬付款系統、增強App效能。",
+  "downloadUrl": "https://github.com/TimJi-430149/-/releases/download/v2.3/v2.3-release.apk"
 }
